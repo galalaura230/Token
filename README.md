@@ -4,7 +4,7 @@
 Welcome to Newton Finance Token
 
 <div>
-  <img src="https://cdn.discordapp.com/attachments/842861267425427496/843760499707609128/1.jpg" height="30" />
+  <img src="https://cdn.discordapp.com/attachments/842861267425427496/843760499707609128/1.jpg" height="100" />
 <div>
 <br />
 
