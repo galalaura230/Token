@@ -6,6 +6,9 @@ Welcome to Newton Finance Token
 <div>
   <img src="https://cdn.discordapp.com/attachments/842861267425427496/843760499707609128/1.jpg" height="100" />
 <div>
+<div>
+  <img src="https://www.youtube.com/watch?v=84j9PPFbt4s" height="500" />
+<div>
 <br />
 
 Do you have what it takes?
