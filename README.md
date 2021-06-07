@@ -41,7 +41,7 @@ truffle test
 
 ## Newton Finance Token Testing
 
-You can test Swap Bot contract by forking mainnet into local.
+You can test contract by forking mainnet into local.
 You will need to copy `start.sh.example` to `start.sh` in root directory.
 And please add your infura id and mnemonic.
 
