@@ -672,7 +672,7 @@ contract NewtonFinanceToken is Context, IBEP20, Ownable {
             uint256 contractBalanceRecepient = balanceOf(recipient);
             require(
                 contractBalanceRecepient + amount <= _maxWalletToken,
-                "Exceeds maximum wallet token amount (100,000,000)"
+                "Exceeds maximum wallet token amount."
             );
         }
 
