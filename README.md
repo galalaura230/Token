@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to Newton Finance Token
 
-[![Newton Finance Token](https://user-images.githubusercontent.com/57055334/121074307-06decd80-c817-11eb-9b1c-282228e698ef.png)](https://www.youtube.com/watch?v=84j9PPFbt4s "Newton Finance Token")
+[![Newton Finance Token](https://user-images.githubusercontent.com/57055334/121074307-06decd80-c817-11eb-9b1c-282228e698ef.png)](https://www.youtube.com/watch?v=2FKgQVFFh0g "Newton Finance Token")
 
 Do you have what it takes?
 Visit [Official site](https://www.newtonfinancetoken.com/) to find out.
